@@ -6,3 +6,786 @@
         "reason": "국립 국어원 링크?"
     }
 ]
+[
+    {
+        "text": "그는 커피를 마시고싶다.",
+        "range": "9~12",
+        "replacement": "마시고 싶다",
+        "reason": "https://www.korean.go.kr/nkview/nknews/200101/35_3.html"
+    },
+    {
+        "text": "나는 그것을 되지는 않습니다.",
+        "range": "7~9",
+        "replacement": "되지 않습니다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4952"
+    },
+    {
+        "text": "오늘은 비가 많이 왔습니다 그죠?",
+        "range": "19~21",
+        "replacement": "그죠?",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4834"
+    },
+    {
+        "text": "그녀는 뚱뚱하다라는 말을 싫어해.",
+        "range": "4~9",
+        "replacement": "뚱뚱하다는",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5081"
+    },
+    {
+        "text": "이 문제는 쉽지만요.",
+        "range": "8~11",
+        "replacement": "쉽지만",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4829"
+    }
+    {
+        "text": "그는 저보다 두배 크다.",
+        "range": "6~10",
+        "replacement": "두 배",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5164"
+    },
+    {
+        "text": "책을 읽는게 좋아요.",
+        "range": "5~7",
+        "replacement": "읽는 게",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5201"
+    },
+    {
+        "text": "이해할 수 있는 사람은 많지가 않다.",
+        "range": "13~18",
+        "replacement": "많지 않다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5243"
+    },
+    {
+        "text": "비가 올 것 같다.",
+        "range": "4~6",
+        "replacement": "올 것 같다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5291"
+    },
+    {
+        "text": "선생님은 언제 오시나요?",
+        "range": "11~14",
+        "replacement": "오시나요?",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5350"
+    },
+    {
+        "text": "시간이 지날수록 어려워진다.",
+        "range": "5~9",
+        "replacement": "지날수록",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5412"
+    },
+    {
+        "text": "나는 어제 영화를 봤다.",
+        "range": "8~10",
+        "replacement": "영화를",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5470"
+    },
+    {
+        "text": "그녀는 공책을 사러 갔다.",
+        "range": "9~12",
+        "replacement": "사러",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5534"
+    },
+    {
+        "text": "그는 항상 일찍 일어납니다.",
+        "range": "6~10",
+        "replacement": "일찍",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5600"
+    },
+    {
+        "text": "나는 매일 커피를 마신다.",
+        "range": "8~10",
+        "replacement": "커피를",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5651"
+    },
+    {
+        "text": "그녀는 너무 빠르다.",
+        "range": "5~7",
+        "replacement": "너무",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5722"
+    },
+    {
+        "text": "나는 오늘도 운동을 했다.",
+        "range": "8~10",
+        "replacement": "운동을",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5794"
+    },
+    {
+        "text": "그는 저녁을 먹지 않았다.",
+        "range": "8~11",
+        "replacement": "먹지",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5851"
+    },
+    {
+        "text": "나는 책을 좋아한다.",
+        "range": "8~10",
+        "replacement": "좋아한다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5900"
+    },
+    {
+        "text": "그녀는 피아노를 잘 친다.",
+        "range": "11~13",
+        "replacement": "잘",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6002"
+    },
+    {
+        "text": "나는 음악을 들었다.",
+        "range": "8~10",
+        "replacement": "들었다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6055"
+    },
+    {
+        "text": "그녀는 나를 보고 웃었다.",
+        "range": "11~14",
+        "replacement": "보고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6121"
+    },
+    {
+        "text": "나는 차를 마셨다.",
+        "range": "8~10",
+        "replacement": "마셨다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6190"
+    },
+    {
+        "text": "그는 계속해서 말했다.",
+        "range": "5~9",
+        "replacement": "계속해서",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6250"
+    },
+    {
+        "text": "나는 도서관에 갔다.",
+        "range": "8~10",
+        "replacement": "갔다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6315"
+    },
+    {
+        "text": "그녀는 밤에 잠을 잔다.",
+        "range": "11~13",
+        "replacement": "잠을",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6379"
+    },
+    {
+        "text": "나는 책을 읽고 싶다.",
+        "range": "8~10",
+        "replacement": "읽고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6451"
+    },
+    {
+        "text": "그는 빠르게 달렸다.",
+        "range": "6~9",
+        "replacement": "빠르게",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6520"
+    },
+    {
+        "text": "나는 책을 찾고 있다.",
+        "range": "8~10",
+        "replacement": "찾고 있다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6594"
+    },
+    {
+        "text": "그녀는 그림을 그리고 있다.",
+        "range": "11~14",
+        "replacement": "그리고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6670"
+    },
+    {
+        "text": "나는 저녁을 먹고 싶다.",
+        "range": "8~10",
+        "replacement": "먹고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6734"
+    },
+    {
+        "text": "그는 편지를 쓰고 있다.",
+        "range": "9~11",
+        "replacement": "쓰고 있다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6801"
+    },
+    {
+        "text": "나는 아침을 먹고 싶다.",
+        "range": "8~10",
+        "replacement": "먹고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6875"
+    },
+    {
+        "text": "그녀는 노래를 부르고 있다.",
+        "range": "11~14",
+        "replacement": "부르고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&
+    }
+    {
+        "text": "나는 너보다 낫타.",
+        "range": "6~7",
+        "replacement": "낫다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4901"
+    },
+    {
+        "text": "사과를 먹을께.",
+        "range": "8~10",
+        "replacement": "먹을게",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4950"
+    },
+    {
+        "text": "그가 길을 건너갔다.",
+        "range": "7~10",
+        "replacement": "건너갔다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5002"
+    },
+    {
+        "text": "집에 갈려구.",
+        "range": "5~8",
+        "replacement": "가려고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5055"
+    },
+    {
+        "text": "나랑 같이 가줄래?",
+        "range": "4~8",
+        "replacement": "가 줄래",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5100"
+    },
+    {
+        "text": "나는 그 책을 읽엇다.",
+        "range": "12~14",
+        "replacement": "읽었다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5150"
+    },
+    {
+        "text": "그는 피곤하다고 말했어.",
+        "range": "8~11",
+        "replacement": "말했어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5205"
+    },
+    {
+        "text": "내일 만날가?",
+        "range": "7~9",
+        "replacement": "만날까",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5251"
+    },
+    {
+        "text": "우리는 친구가 되었다.",
+        "range": "11~13",
+        "replacement": "되었다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5304"
+    },
+    {
+        "text": "바나나를 잘랐다.",
+        "range": "6~8",
+        "replacement": "잘랐다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5350"
+    },
+    {
+        "text": "저는 커피가 필요해요.",
+        "range": "6~9",
+        "replacement": "필요해요",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5401"
+    },
+    {
+        "text": "비가 올꺼야.",
+        "range": "6~8",
+        "replacement": "올 거야",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5450"
+    },
+    {
+        "text": "너는 나보다 나아.",
+        "range": "8~9",
+        "replacement": "나아",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5501"
+    },
+    {
+        "text": "어디 갈꺼니?",
+        "range": "5~7",
+        "replacement": "갈 거니",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5555"
+    },
+    {
+        "text": "우리 집은 크고 작다.",
+        "range": "11~13",
+        "replacement": "작다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5600"
+    },
+    {
+        "text": "나는 너무 피곤하다.",
+        "range": "8~10",
+        "replacement": "피곤하다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5651"
+    },
+    {
+        "text": "그녀는 노래를 잘 불러.",
+        "range": "11~13",
+        "replacement": "잘 불러",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5704"
+    },
+    {
+        "text": "나는 책을 읽고 싶다.",
+        "range": "8~10",
+        "replacement": "읽고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5751"
+    },
+    {
+        "text": "그는 늦었다고 했다.",
+        "range": "8~10",
+        "replacement": "했다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5800"
+    },
+    {
+        "text": "빨리 가고 싶어.",
+        "range": "5~9",
+        "replacement": "가고 싶어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5850"
+    },
+    {
+        "text": "그녀는 예쁘다고 생각해.",
+        "range": "9~11",
+        "replacement": "생각해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5901"
+    },
+    {
+        "text": "나는 매일 운동해.",
+        "range": "8~10",
+        "replacement": "운동해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5950"
+    },
+    {
+        "text": "저는 그걸 싫어합니다.",
+        "range": "6~9",
+        "replacement": "싫어합니다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6001"
+    },
+    {
+        "text": "그것은 잘못됬어.",
+        "range": "8~11",
+        "replacement": "잘못됐어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6055"
+    },
+    {
+        "text": "학교에 가고 있어.",
+        "range": "8~10",
+        "replacement": "가고 있어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6100"
+    },
+    {
+        "text": "그녀는 계속 울어.",
+        "range": "8~9",
+        "replacement": "울어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6150"
+    },
+    {
+        "text": "나는 이걸 좋아해.",
+        "range": "8~10",
+        "replacement": "좋아해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6200"
+    },
+    {
+        "text": "너무 늦지 마.",
+        "range": "5~7",
+        "replacement": "늦지 마",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6255"
+    },
+    {
+        "text": "이것은 중요해.",
+        "range": "6~8",
+        "replacement": "중요해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6301"
+    },
+    {
+        "text": "너무 많이 먹지 마.",
+        "range": "5~10",
+        "replacement": "먹지 마",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6350"
+    },
+    {
+        "text": "조심하세요.",
+        "range": "0~4",
+        "replacement": "조심하세요",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6405"
+    },
+    {
+        "text": "맛있게 드세요.",
+        "range": "0~3",
+        "replacement": "맛있게",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6450"
+    },
+    {
+        "text": "다시 한번 해봐.",
+        "range": "0~4",
+        "replacement": "다시 한번",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6501"
+    },
+    {
+        "text": "그것은 틀렸다.",
+        "range": "8~10",
+        "replacement": "틀렸다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6550"
+    },
+    {
+        "text": "기다려 주셔서 감사합니다.",
+        "range": "0~6",
+        "replacement": "기다려 주셔서",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6600"
+    },
+    {
+        "text": "그렇게 하면 돼.",
+        "range": "0~5",
+        "replacement": "그렇게 하면",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6655"
+    }
+    {
+        "text": "나는 그 책을 못봤어.",
+        "range": "8~10",
+        "replacement": "못 봤어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6701"
+    },
+    {
+        "text": "이 문제는 너무 쉽네.",
+        "range": "11~13",
+        "replacement": "쉽네",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6750"
+    },
+    {
+        "text": "그녀는 항상 웃고 다녀.",
+        "range": "11~14",
+        "replacement": "웃고 다녀",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6805"
+    },
+    {
+        "text": "나는 그를 믿어요.",
+        "range": "8~10",
+        "replacement": "믿어요",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6851"
+    },
+    {
+        "text": "오늘 날씨가 좋아요.",
+        "range": "10~12",
+        "replacement": "좋아요",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6900"
+    },
+    {
+        "text": "그는 나를 도와줄 것이다.",
+        "range": "8~12",
+        "replacement": "도와줄 것이다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6955"
+    },
+    {
+        "text": "이렇게 하면 좋겠다.",
+        "range": "0~5",
+        "replacement": "이렇게 하면",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7001"
+    },
+    {
+        "text": "그는 항상 일찍 일어난다.",
+        "range": "8~10",
+        "replacement": "일찍",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7050"
+    },
+    {
+        "text": "나는 매일 운동한다.",
+        "range": "8~10",
+        "replacement": "운동한다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7105"
+    },
+    {
+        "text": "그녀는 피곤하다고 했어.",
+        "range": "8~10",
+        "replacement": "했어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7151"
+    }
+    {
+        "text": "그는 왠지 모르게 슬퍼 보여.",
+        "range": "2~4",
+        "replacement": "웬지",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7201"
+    },
+    {
+        "text": "일이 너무 바뻐서 못 갔어.",
+        "range": "8~10",
+        "replacement": "바빠서",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7250"
+    },
+    {
+        "text": "생각보다 일이 수월치 않네.",
+        "range": "13~15",
+        "replacement": "수월치",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7305"
+    },
+    {
+        "text": "그녀는 어의가 없다며 웃었다.",
+        "range": "5~7",
+        "replacement": "어이가",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7351"
+    },
+    {
+        "text": "우리는 서로의 마음을 알면서도 모르는 척 했다.",
+        "range": "22~26",
+        "replacement": "척했다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7400"
+    },
+    {
+        "text": "그의 실수는 용서 받을 수 없다.",
+        "range": "7~10",
+        "replacement": "용서받을",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7455"
+    },
+    {
+        "text": "가르키는 방향으로 가세요.",
+        "range": "1~4",
+        "replacement": "가리키는",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7501"
+    },
+    {
+        "text": "이 곳은 처음 와보는 곳이야.",
+        "range": "4~6",
+        "replacement": "와 보는",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7550"
+    },
+    {
+        "text": "그녀는 나에게 도움을 청하려 했다.",
+        "range": "11~14",
+        "replacement": "청하려고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7605"
+    },
+    {
+        "text": "생각치 못한 일이 생겼어.",
+        "range": "2~4",
+        "replacement": "생각지",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7651"
+    }
+    {
+        "text": "내일은 날씨가 갠다.",
+        "range": "8~9",
+        "replacement": "개인다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7701"
+    },
+    {
+        "text": "그는 맛있는 음식을 만들어 줬다.",
+        "range": "12~16",
+        "replacement": "만들어줬다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7750"
+    },
+    {
+        "text": "이 문제는 해결할수 있을 것 같아.",
+        "range": "10~14",
+        "replacement": "해결할 수",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7805"
+    },
+    {
+        "text": "모두가 기다리는 자리이다.",
+        "range": "4~8",
+        "replacement": "기다리는",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7851"
+    },
+    {
+        "text": "무엇이 문제인지 알수가 없다.",
+        "range": "10~14",
+        "replacement": "알 수가",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7900"
+    },
+    {
+        "text": "서류를 작성하기가 여간 어렵지 않다.",
+        "range": "16~20",
+        "replacement": "어렵다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=7955"
+    },
+    {
+        "text": "이 길이 맞는지 모르겠어.",
+        "range": "9~11",
+        "replacement": "맞는 지",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8001"
+    },
+    {
+        "text": "저는 괜찮습니다만.",
+        "range": "7~10",
+        "replacement": "괜찮습니다만",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8050"
+    },
+    {
+        "text": "그의 행동은 변함이 없네.",
+        "range": "10~13",
+        "replacement": "변함이 없네",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8105"
+    },
+    {
+        "text": "내 생각엔 그가 맞는 것 같아.",
+        "range": "2~4",
+        "replacement": "생각에는",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8151"
+    }
+    {
+        "text": "그는 항상 옳다고 믿었어.",
+        "range": "8~10",
+        "replacement": "믿었어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8201"
+    },
+    {
+        "text": "그는 별 수 없이 그 일을 했다.",
+        "range": "3~6",
+        "replacement": "별수 없이",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8250"
+    },
+    {
+        "text": "그녀는 친구를 기다렸다.",
+        "range": "11~14",
+        "replacement": "기다렸다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8305"
+    },
+    {
+        "text": "그의 행동은 변함이 없구나.",
+        "range": "10~13",
+        "replacement": "변함이 없구나",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8351"
+    },
+    {
+        "text": "나는 오늘 그 책을 읽고 싶어.",
+        "range": "8~10",
+        "replacement": "읽고 싶어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8400"
+    },
+    {
+        "text": "그녀는 나에게 반갑다고 말했다.",
+        "range": "8~10",
+        "replacement": "반갑다고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8455"
+    },
+    {
+        "text": "아무것도 몰랐었다.",
+        "range": "5~7",
+        "replacement": "몰랐다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8501"
+    },
+    {
+        "text": "너는 정말로 대단하구나.",
+        "range": "8~10",
+        "replacement": "대단하구나",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8550"
+    },
+    {
+        "text": "그는 나에게 웃으며 말했다.",
+        "range": "8~10",
+        "replacement": "웃으며",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8605"
+    },
+    {
+        "text": "이것은 정말 중요해.",
+        "range": "10~12",
+        "replacement": "중요해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8651"
+    },
+    {
+        "text": "그는 열심히 공부했다.",
+        "range": "7~9",
+        "replacement": "공부했다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8700"
+    },
+    {
+        "text": "모두가 그를 기다리고 있다.",
+        "range": "8~12",
+        "replacement": "기다리고",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8755"
+    },
+    {
+        "text": "그녀는 책을 읽었다.",
+        "range": "9~11",
+        "replacement": "읽었다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8801"
+    },
+    {
+        "text": "나는 아침을 먹고 싶다.",
+        "range": "8~10",
+        "replacement": "먹고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8850"
+    },
+    {
+        "text": "그는 바쁜 척하며 지나갔다.",
+        "range": "5~7",
+        "replacement": "척하며",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8905"
+    },
+    {
+        "text": "그녀는 그 말을 믿지 않았다.",
+        "range": "10~14",
+        "replacement": "믿지 않았다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=8951"
+    },
+    {
+        "text": "나는 매일 아침 운동한다.",
+        "range": "11~13",
+        "replacement": "운동한다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9000"
+    },
+    {
+        "text": "그는 고양이를 좋아해.",
+        "range": "9~11",
+        "replacement": "좋아해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9055"
+    },
+    {
+        "text": "그녀는 그림을 그린다.",
+        "range": "9~11",
+        "replacement": "그린다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9101"
+    },
+    {
+        "text": "나는 그에게 화가 났어.",
+        "range": "10~12",
+        "replacement": "화가 났어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9150"
+    }
+    {
+        "text": "그는 곧 올거야.",
+        "range": "7~9",
+        "replacement": "올 거야",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9201"
+    },
+    {
+        "text": "나는 그녀를 도와주고 싶어.",
+        "range": "8~10",
+        "replacement": "도와주고 싶어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9250"
+    },
+    {
+        "text": "그녀는 매일 학교에 간다.",
+        "range": "10~12",
+        "replacement": "간다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9305"
+    },
+    {
+        "text": "그것은 정말 신기하네.",
+        "range": "10~12",
+        "replacement": "신기하네",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9351"
+    },
+    {
+        "text": "나는 그 영화를 보고 싶다.",
+        "range": "8~10",
+        "replacement": "보고 싶다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9400"
+    },
+    {
+        "text": "그는 나를 무시했다.",
+        "range": "8~10",
+        "replacement": "무시했다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9455"
+    },
+    {
+        "text": "이해할 수 없었어.",
+        "range": "4~8",
+        "replacement": "이해할 수 없었어",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9501"
+    },
+    {
+        "text": "그녀는 매일같이 운동을 한다.",
+        "range": "11~13",
+        "replacement": "운동을 한다",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9550"
+    },
+    {
+        "text": "나는 오늘 피자를 먹을거야.",
+        "range": "13~17",
+        "replacement": "먹을 거야",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9605"
+    },
+    {
+        "text": "너는 나에게 정말 소중해.",
+        "range": "11~14",
+        "replacement": "정말 소중해",
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=9651"
+    }
+]
+
