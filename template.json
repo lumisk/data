@@ -206,10 +206,10 @@
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6875"
     },
     {
-        "text": "그녀는 노래를 부르고 있다.",
+        "text": "그녀는 노래를 불르고 있다.",
         "range": "11~14",
         "replacement": "부르고",
-        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&
+        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&"
     }
     {
         "text": "나는 너보다 낫타.",
