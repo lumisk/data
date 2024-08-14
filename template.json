@@ -294,20 +294,20 @@
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5651"
     },
     {
-        "text": "그녀는 노래를 잘 불러.",
-        "range": "11~13",
+        "text": "그녀는 노래를 잘불러.",
+        "range": "8~10",
         "replacement": "잘 불러",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5704"
     },
     {
-        "text": "나는 책을 읽고 싶다.",
-        "range": "8~10",
+        "text": "나는 책을 읽고싶다.",
+        "range": "6~9",
         "replacement": "읽고 싶다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5751"
     },
     {
-        "text": "그는 늦었다고 했다.",
-        "range": "8~10",
+        "text": "그는 늦었다고 한다.",
+        "range": "8~9",
         "replacement": "했다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5800"
     },
