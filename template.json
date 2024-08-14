@@ -823,74 +823,74 @@
     },
     {
         "text": "그는 항상 자기를 비하한다.",
-        "range": "5~6",
+        "range": "6~8",
         "replacement": "자신을",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9E%90%EA%B8%B0%20%EB%B9%84%ED%95%98"
     },
     {
         "text": "그의 행동은 참으로 이상적이다.",
-        "range": "7~9",
+        "range": "11~15",
         "replacement": "이상하다",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9D%B4%EC%83%81%EC%A0%81"
     },
     {
         "text": "그녀는 어려운 상황에서도 인내심을 잃지 않았다.",
-        "range": "15~17",
+        "range": "14~16",
         "replacement": "참을성",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9D%B8%EB%82%B4%EC%8B%AC"
     },
     {
         "text": "그의 주장은 모순적이다.",
-        "range": "6~8",
+        "range": "7~11",
         "replacement": "모순된다",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%AA%A8%EC%88%9C%EC%A0%81"
     },
     {
         "text": "그녀는 항상 긍정적인 사고를 한다.",
-        "range": "8~15",
+        "range": "7~13",
         "replacement": "긍정적 사고",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EA%B8%8D%EC%A0%95%EC%A0%81"
     },
     {
         "text": "이번 사건은 전대미문의 사건이다.",
-        "range": "7~12",
+        "range": "7~11",
         "replacement": "전대미문적인",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%A0%84%EB%8C%80%EB%AF%B8%EB%AC%B8"
     },
     {
         "text": "그는 항상 상대방을 배려한다.",
-        "range": "11~15",
+        "range": "11~14",
         "replacement": "배려하고 있다",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%B0%B0%EB%A0%A4"
     },
     {
         "text": "그의 논리는 매우 논리적이다.",
-        "range": "3~14",
+        "range": "4~15",
         "replacement": "논리는 매우 타당하다",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%85%BC%EB%A6%AC%EC%A0%81"
     },
     {
         "text": "그는 항상 신중한 태도를 취한다.",
-        "range": "8~10",
+        "range": "6~8",
         "replacement": "신중하게",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%8B%A0%EC%A4%91%ED%95%9C"
     },
     {
         "text": "그는 그녀를 무시하는 듯한 태도를 보였다.",
-        "range": "4~5",
+        "range": "3~5",
         "replacement": "그녀에게",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%AC%B4%EC%8B%9C"
     },
     {
-        "text": "그는 항상 자만심에 빠져있다.",
-        "range": "5~7",
-        "replacement": "자만하고",
+        "text": "그는 항상 자만에 빠져있다.",
+        "range": "6~8",
+        "replacement": "자만심에",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9E%90%EB%A7%8C%EC%8B%AC"
     },
     {
-        "text": "그녀는 매우 예민한 성격이다.",
-        "range": "7~15",
-        "replacement": "예민하다",
+        "text": "그녀는 너무 예민한 성격이다.",
+        "range": "4~5",
+        "replacement": "매우",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%98%88%EB%AF%BC%ED%95%9C"
     },
     {
