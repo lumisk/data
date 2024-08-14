@@ -1,20 +1,20 @@
 [
     {
         "text": "그는 커피를 마시고싶다.",
-        "range": "9~12",
+        "range": "7~12",
         "replacement": "마시고 싶다",
         "reason": "https://www.korean.go.kr/nkview/nknews/200101/35_3.html"
     },
     {
         "text": "나는 그것을 되지는 않습니다.",
-        "range": "7~9",
+        "range": "7~14",
         "replacement": "되지 않습니다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4952"
     },
     {
-        "text": "오늘은 비가 많이 왔습니다 그죠?",
-        "range": "19~21",
-        "replacement": "그죠?",
+        "text": "오늘은 비가 많이 왔습니다,그죠?",
+        "range": "15~16",
+        "replacement": "그렇죠?",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4834"
     },
     {
@@ -25,19 +25,19 @@
     },
     {
         "text": "이 문제는 쉽지만요.",
-        "range": "8~11",
+        "range": "6~9",
         "replacement": "쉽지만",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=4829"
     }
     {
         "text": "그는 저보다 두배 크다.",
-        "range": "6~10",
+        "range": "7~8",
         "replacement": "두 배",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5164"
     },
     {
         "text": "책을 읽는게 좋아요.",
-        "range": "5~7",
+        "range": "3~6",
         "replacement": "읽는 게",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5201"
     },
@@ -49,97 +49,91 @@
     },
     {
         "text": "비가 올 것 같다.",
-        "range": "4~6",
+        "range": "3~9",
         "replacement": "올 것 같다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5291"
     },
     {
-        "text": "선생님은 언제 오시나요?",
-        "range": "11~14",
+        "text": "선생님은 언제 오나요?",
+        "range": "8~10",
         "replacement": "오시나요?",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5350"
     },
     {
-        "text": "시간이 지날수록 어려워진다.",
-        "range": "5~9",
+        "text": "시간이 지날 수록 어려워진다.",
+        "range": "4~8",
         "replacement": "지날수록",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5412"
     },
     {
-        "text": "나는 어제 영화를 봤다.",
-        "range": "8~10",
+        "text": "나는 어제 영화 봤다.",
+        "range": "6~7",
         "replacement": "영화를",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5470"
     },
     {
-        "text": "그녀는 공책을 사러 갔다.",
-        "range": "9~12",
-        "replacement": "사러",
-        "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5534"
-    },
-    {
-        "text": "그는 항상 일찍 일어납니다.",
-        "range": "6~10",
+        "text": "그는 항상 일찍이 일어납니다.",
+        "range": "6~8",
         "replacement": "일찍",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5600"
     },
     {
-        "text": "나는 매일 커피를 마신다.",
-        "range": "8~10",
+        "text": "나는 매일 커피을 마신다.",
+        "range": "6~8",
         "replacement": "커피를",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5651"
     },
     {
         "text": "그녀는 너무 빠르다.",
-        "range": "5~7",
-        "replacement": "너무",
+        "range": "4~5",
+        "replacement": "매우",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5722"
     },
     {
-        "text": "나는 오늘도 운동을 했다.",
-        "range": "8~10",
+        "text": "나는 오늘도 운동를 했다.",
+        "range": "7~9",
         "replacement": "운동을",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5794"
     },
     {
         "text": "그는 저녁을 먹지 않았다.",
-        "range": "8~11",
-        "replacement": "먹지",
+        "range": "7~8",
+        "replacement": "들지",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5851"
     },
     {
-        "text": "나는 책을 좋아한다.",
-        "range": "8~10",
+        "text": "나는 책을 좋아하다.",
+        "range": "6~9",
         "replacement": "좋아한다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=5900"
     },
     {
-        "text": "그녀는 피아노를 잘 친다.",
-        "range": "11~13",
+        "text": "그녀는 피아노를 꽤 친다.",
+        "range": "9",
         "replacement": "잘",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6002"
     },
     {
-        "text": "나는 음악을 들었다.",
-        "range": "8~10",
+        "text": "나는 음악을 들엇다.",
+        "range": "7~9",
         "replacement": "들었다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6055"
     },
     {
         "text": "그녀는 나를 보고 웃었다.",
         "range": "11~14",
-        "replacement": "보고",
+        "replacement": "보며",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6121"
     },
     {
-        "text": "나는 차를 마셨다.",
-        "range": "8~10",
+        "text": "나는 차를 마시다.",
+        "range": "6~8",
         "replacement": "마셨다",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6190"
     },
     {
-        "text": "그는 계속해서 말했다.",
-        "range": "5~9",
+        "text": "그는 계속해 말했다.",
+        "range": "3~5",
         "replacement": "계속해서",
         "reason": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=99&write_seq=6250"
     },
@@ -913,13 +907,13 @@
     },
     {
         "text": "그녀는 참을성 없는 사람이다.",
-        "range": "3~4",
+        "range": "4~6",
         "replacement": "참을성이",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%B0%B8%EC%9D%84%EC%84%B1"
     },
     {
         "text": "그는 매사에 신중해애 한다.",
-        "range": "5~8",
+        "range": "7~10",
         "replacement": "신중해야",
         "reason": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%8B%A0%EC%A4%91%ED%95%9C"
     }
